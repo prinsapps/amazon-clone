@@ -1,6 +1,5 @@
-## Live Link https://clone-9f3d6.web.app/
+## [Deployed Version](https://clone-9f3d6.web.app/).
 
-[Firebase Hosting](https://clone-9f3d6.web.app/).
 
 ### `yarn start`
 
