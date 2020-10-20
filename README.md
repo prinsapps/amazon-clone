@@ -1,8 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Link https://clone-9f3d6.web.app/
 
-## Available Scripts
-
-In the project directory, you can run:
+[Firebase Hosting](https://clone-9f3d6.web.app/).
 
 ### `yarn start`
 
