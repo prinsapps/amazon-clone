@@ -2,7 +2,8 @@
 
 
 ...
-![Frontend](https://res.cloudinary.com/prinsapps/image/upload/v1603276644/amazon-clone/React_App_pkxffp.png)
+![Frontend](https://res.cloudinary.com/prinsapps/image/upload/v1603281900/amazon-clone/React_App-3_p6z22a.png)
+![Frontend](https://res.cloudinary.com/prinsapps/image/upload/v1603281900/amazon-clone/React_App-2_lpsdns.png)
 ...
 
 
